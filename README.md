@@ -8,9 +8,6 @@
 
 ## :triangular_ruler: Projeto
 ### Happy é um projeto que foi desenvolvido durante a "Next Level Week 03" da Rocketseat, que tem como finalidade entregar um mapa com orfanatos nas proximidades da sua cidade contendo instruções fundamentais para a visitação do local.
-<h1 align="center">
-    <img alt="Ecoleta image mockup" title="Ecoleta" src="https://github.com/eduardopetri/NLWEcoleta/blob/master/EcoletaMockup.png" width="400px" />
-</h1>
 
 ## :computer: Tecnologias
 ### Este projeto foi desenvolvido com as seguintes tecnologias:
